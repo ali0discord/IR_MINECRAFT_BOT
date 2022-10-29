@@ -1,0 +1,8 @@
+{
+    "ip": "localhost",
+    "port": "17565",
+    "bot_name": "HeroBrain",
+    "_comment_1": "Radar Options",
+    "radar_options_host": "0.0.0.0",
+    "radar_options_port": 4444
+}
